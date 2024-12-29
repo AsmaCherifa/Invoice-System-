@@ -39,5 +39,4 @@ PHP (Gestion de la logique métier)
 MySQL (Stockage des données)
 
 # Demo
-https://github.com/AsmaCherifa/Invoice-System-/issues/1#issue-2762181653
-
+https://github.com/user-attachments/assets/ea870113-f47e-48de-b5b5-b9ebb380f14a
